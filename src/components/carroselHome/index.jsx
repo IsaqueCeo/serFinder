@@ -39,7 +39,7 @@ export default function Carousel() {
   }, [currentIndex]);
 
   return (
-    <Box sx={{ position: 'relative', width: '100%', maxWidth: '100%', overflow: 'hidden', marginTop: "-20rem" }}>
+    <Box sx={{ position: 'relative', width: '100%', maxWidth: '100%', overflow: 'hidden', marginTop: "-19rem" }}>
       <IconButton
         sx={{ 
           position: 'absolute', 
